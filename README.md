@@ -20,11 +20,6 @@ Eu Sou o Altino Cruz, Sou um Programador Front end, Atualmente estou aprendendo 
 
  <br>
  <br>
- 
- 
- 
-
-
 
 [![Altino stats](https://github-readme-stats.vercel.app/api?username=Tinocruz)](https://github.com/anuraghazra/github-readme-stats)
 
